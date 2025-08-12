@@ -1,6 +1,7 @@
 streamlit==1.27.0
 pandas
 plotly
-seaborn
-matplotlib
+seaborn==0.13.2
+matplotlib==3.8.4
+pillow==10.4.0
 streamlit-aggrid==0.3.4.post3
